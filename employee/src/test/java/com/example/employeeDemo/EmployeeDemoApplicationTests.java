@@ -1,13 +1,13 @@
-package com.example.weather;
+package test.java.com.example.employeeDemo;
 
 //import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WeatherApplicationTests {
+class EmployeeDemoApplicationTests {
 
-//    @Test
-//    void contextLoads() {
-//    }
+//	@Test
+//	void contextLoads() {
+//	}
 
 }
